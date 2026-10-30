@@ -1,0 +1,6 @@
+{
+  "name": "Aether Broadcast — Live Online TV & Radio",
+  "description": "Stream live global television and radio broadcasts with instant tuning, real-time audio visualization, channel guide, recording, and custom streams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
